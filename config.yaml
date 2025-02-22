@@ -1,0 +1,31 @@
+baseurl: ""
+relativeURLs: "True"
+languageCode: "en-us"
+title: 'Food Not Bombs in Arcata'
+theme: "hugo-minimal"
+footnotereturnlinkcontents: "↩"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Get Involved
+      url: "get-involved/"
+      weight: 3
+    - name: Contact Us
+      url: "contact/"
+      weight: 4
+    - name: Events and Announcements
+      url: "events-announcements/"
+      weight: 5
+    - name: Donate
+      url: "donate/"
+      weight: 6
+
+params:
+  description: "Website for the Arcata Food Not Bombs chapter."
+  footer: "foodnotbombsarcata.org -- 2025"
